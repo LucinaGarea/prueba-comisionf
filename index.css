@@ -1,0 +1,103 @@
+.caja1{
+    background-color: rgba(128, 128, 128, 0.219);
+    border: 8px #000 solid;
+    width: 500px;
+    height: 500px;
+    left: 400px;
+    position: absolute;
+    z-index: 1;
+  
+    
+}
+.caja2{
+    background-color: grey;
+    width: 400px;
+    height: 400px;
+    float: left;
+    left: 450px;
+    margin-top: 60px;
+    position: relative;
+    z-index: 2;
+    
+}
+.caja3{
+    background-color: rgb(112, 156, 8);
+    width: 280px;
+    height: 80px;
+    float: left;
+    left: 470px;
+    margin-top: 110px;
+    position: absolute;
+    z-index: 3;
+}
+.caja4{
+    background-color: rgb(112, 156, 8);
+    width: 80px;
+    height: 80px;
+    float: right;
+    right: 515px;
+    margin-top: 110px;
+    position: relative;
+    z-index: 4;
+}
+.caja5{
+    background-color: rgb(112, 156, 8);
+    width: 150px;
+    height: 150px;
+    float: left;
+    left: 470px;
+    margin-top: 205px;
+    position: absolute;
+    z-index: 5;
+}
+.caja6{
+    background-color: rgb(112, 156, 8);
+    width: 210px;
+    height: 70px;
+    float: right;
+    right: 435px;
+    margin-top: 205px;
+    position: relative;
+    z-index: 6;
+}
+.caja7{
+    background-color: rgb(112, 156, 8);
+    width: 210px;
+    height: 70px;
+    float: right;
+    right: 523px;
+    margin-top: 285px;
+    position: absolute;
+    z-index: 7;
+}
+.caja8{
+    background-color: rgb(8, 156, 112);
+    width: 80px;
+    height: 80px;
+    float: left;
+    left: 470px;
+    margin-top: 365px;
+    position: absolute;
+    z-index: 8;
+}
+.caja9{
+    background-color: rgb(8, 156, 112);
+    width: 185px;
+    height: 80px;
+    float: left;
+    left: 155px;
+    margin-top: 365px;
+    position: relative;
+    z-index: 9;
+}
+.caja10{
+    background-color: rgb(8, 156, 112);
+    width: 80px;
+    height: 80px;
+    float: right;
+    right: 225px;
+    margin-top: 365px;
+    position: relative;
+    z-index: 10;
+
+}
